@@ -1,0 +1,104 @@
+ref: refs/heads/Rachel-design-documents
+# MSTU 5003 Design Document (Template)
+
+> Clone the template and upload to your our Github.
+
+Write a **two page** design document where you explain your project. You should clearly explain the problem you're trying to solve. Be sure to describe the domain you're working with and the users you're trying to target. Remember that the point of your design document is that you can hand it off to any developer and theoretically they would be able to understand and build the program.
+
+You'll be adding to your design document as you work towards your midterm due on **Nov 4, 2016**.
+
+
+## Topic
+*What is the subject at hand?*
+Help immigrant kids overcome from culture shock
+
+*Which broader field(s) does this site apply to?*
+learn culture, making friends, awareness of global citizenship
+
+## Problem
+*What is the problem you're trying to solve?*
+help immigrant kids overcome culture shock
+learn about America culture
+practice writing skills
+
+
+## Target Audience
+*Who is your target audience? Describe in detail*
+immigrant kids age from 6-12 (have basic english skills)
+immigrant parents
+
+### User Stories
+**Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
+
+Structure your user stories as features, so you can actually build it to meet the users needs.
+
+**Example**: As a [type of user], I want [some goal] so that [some reason].
+
+Keep these questions in mind:
+- Who are you building the feature for? What type of user?
+- What are you building and what will it accomplish?
+- What kind of engagement and value will the feature/website bring for the user? What does it accomplish?
+
+- **User Story 1:**
+As a 10 years old Chinese boy who has a basic English reading and writing skills:
+I went to the Uboat website because the name is cool! I am attracted by the submarine and the island appears on homepage.
+I want to have one submarine by my own. so I click to create my own submarine, decorated it for few minutes.
+Then I click the map to navigate from ocean to each country. First country I went to is China, since it is my home country,
+I learned some facts and read others stories in "China" I marked it as my home country. Then I navigate my submarine to America, where I live now.
+When I shipping to America, I collected a jelly fish to my aquiriam.
+I learned some stories (histories), facts and other basic knowledges.
+I read stories that others create, I added some written based on their stories.
+
+- **User Story 2:**
+As a immigrant parents, I when to this website trying to learn about status of my children.
+I look up the instruction to learn how this whole system worked. I linked to my children's profile looked which country
+they visit, what stories they made
+I learn about time machine they create to know better about their feelings. I added some written to continues stories.
+
+
+
+
+## Strategy
+
+This section should describe objectives, goals and metrics.
+
+### Site Objectives:
+*What do we want to get out of the site?*
+submarine to navigate to countries to learn and write.
+stories island to collaborative writing stories with other users to improve language skills
+Family support for parents to learn about their kids experience
+Map help their submarine to navigate from country to country
+Aquarium to keep motivating users to explore more
+
+
+
+### Success Metrics
+*Outline how you will check that the goals for your site have been met*
+Look at which country user went to
+Look at what facts they learn by click on and interactivity
+Look at their written up stories to see how their reading and writing skills are used to illustrate stories
+Look at how many features that they collected
+
+Make sure your program does something to measure the consider assessments as a part of your program. Here are a couple.
+
+* Pre assessments
+* Formative assessments
+
+
+## Scope
+Functional and Content Specifications
+Navigate
+co-write
+comment
+pick up creatures
+aquarium to collect creatures
+histories, references, facts about each country to learn
+
+
+## Structure
+Interaction design and information architecture
+
+
+## Skeleton
+Interface, navigation, information design
+(You'll provide wireframes here)
